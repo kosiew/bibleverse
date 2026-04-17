@@ -8,4 +8,5 @@ categories: [Love]
 ---
 
 Deuteronomy 6:5
+
 Love the Lord your God with all your heart and with all your soul and with all your mind.
