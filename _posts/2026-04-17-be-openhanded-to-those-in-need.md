@@ -3,7 +3,7 @@
 layout: post
 title: "Be Openhanded to Those in Need"
 date: 2026-04-17 09:51:42 +0000
-tags: [Deuteronomy, generosity]
+tags: [Deuteronomy]
 categories: [Love]
 ---
 
