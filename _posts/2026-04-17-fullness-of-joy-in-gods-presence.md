@@ -10,8 +10,3 @@ categories: [Joy]
 Psalm 16:11
 
 “In your presence there is fullness of joy.”
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Joy](/categories/joy/)
-Tags: [Psalms](/tags/psalms/), [joy](/tags/joy/)
-<!-- gh-pages-taxonomy-links:end -->

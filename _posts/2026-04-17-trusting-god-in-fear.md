@@ -10,8 +10,3 @@ categories: [Faith]
 Psalm 56:3
 
 “When I am afraid, I put my trust in you.”
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Faith](/categories/faith/)
-Tags: [Psalms](/tags/psalms/), [trust](/tags/trust/)
-<!-- gh-pages-taxonomy-links:end -->

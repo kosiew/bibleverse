@@ -10,8 +10,3 @@ categories: [Faith]
 Psalm 123:2
 
 As the eyes of servants look to the hand of their masters…, so our eyes look to the Lord our God…
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Faith](/categories/faith/)
-Tags: [Psalms](/tags/psalms/), [dependence](/tags/dependence/)
-<!-- gh-pages-taxonomy-links:end -->

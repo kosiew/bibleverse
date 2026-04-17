@@ -10,8 +10,3 @@ categories: [Faith]
 Psalm 27:1
 
 "The Lord is my light and my salvation— whom shall I fear?  The Lord is the stronghold of my life— of whom shall I be afraid?"
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Faith](/categories/faith/)
-Tags: [Psalms](/tags/psalms/), [faith](/tags/faith/)
-<!-- gh-pages-taxonomy-links:end -->

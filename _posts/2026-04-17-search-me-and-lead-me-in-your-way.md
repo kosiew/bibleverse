@@ -10,8 +10,3 @@ categories: [Faith]
 Psalm 139:23-24
 
 "Search me, O God, and know my heart; Try me and know my anxious thoughts; And see if there be any hurtful way in me, And lead me in the everlasting way."
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Faith](/categories/faith/)
-Tags: [Psalms](/tags/psalms/), [surrender](/tags/surrender/)
-<!-- gh-pages-taxonomy-links:end -->

@@ -10,8 +10,3 @@ categories: [Obedience]
 Psalm 19:14
 
 "Let the words of my mouth and the meditation of my heart Be acceptable in Your sight,"
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Obedience](/categories/obedience/)
-Tags: [Psalms](/tags/psalms/), [obedience](/tags/obedience/)
-<!-- gh-pages-taxonomy-links:end -->

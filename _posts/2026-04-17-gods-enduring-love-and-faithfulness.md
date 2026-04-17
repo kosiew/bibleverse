@@ -10,8 +10,3 @@ categories: [Faith]
 Psalm 100:5
 
 For the Lord is good and his love endures forever;     his faithfulness continues through all generations.
-
-<!-- gh-pages-taxonomy-links:start -->
-Categories: [Faith](/categories/faith/)
-Tags: [Psalms](/tags/psalms/), [faithfulness](/tags/faithfulness/)
-<!-- gh-pages-taxonomy-links:end -->
